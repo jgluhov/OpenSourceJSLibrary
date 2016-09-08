@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jgluhov/OpenSourceJSLibrary/issues"
   },
-  "homepage": "https://github.com/jgluhov/OpenSourceJSLibrary#readme"
+  "homepage": "https://github.com/jgluhov/OpenSourceJSLibrary#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
 }
