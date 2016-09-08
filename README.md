@@ -1,1 +1,1 @@
-"# OpenSourceJSLibrary" 
+# OpenSourceJSLibrary
